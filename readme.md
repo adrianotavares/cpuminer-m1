@@ -1,6 +1,6 @@
 # CPUMiner M1 - Minerador de Criptomoedas
 
-Este projeto contém uma configuração completa para mineração de Bitcoin (SHA-256) usando CPUMiner-Multi otimizado para processadores Apple Silicon (M1/M2/M3).
+Este projeto contém uma configuração completa para mineração de Bitcoin (SHA-256) usando CPUMiner-Multi otimizado para processadores Apple Silicon M1.
 
 ## Visão Geral
 
