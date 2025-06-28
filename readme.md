@@ -135,6 +135,7 @@ chmod +x start-miner-public-pool.sh
 - Verifique se o usuário/endereço está correto
 
 **Performance baixa:**
+- A execução do CPU miner atinge em torno de 10 MH/s 
 - Ajuste o número de threads
 - Verifique se outros processos estão usando CPU
 - Considere ajustar a prioridade do CPU
