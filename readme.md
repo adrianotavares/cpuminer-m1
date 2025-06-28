@@ -148,7 +148,7 @@ chmod +x start-miner-public-pool.sh
 
 ## Licença
 
-Este projeto utiliza o CPUMiner-Multi, que é software livre. Consulte as licenças dos componentes para mais detalhes.
+Este projeto é um build do CPUMiner-Multi, que é um software livre sob a licença GPLv2.
 
 ## Contribuições
 
