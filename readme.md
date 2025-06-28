@@ -110,6 +110,8 @@ Ajuste a prioridade do processo:
 
 ### Rentabilidade
 - A mineração de Bitcoin via CPU não é rentável
+- A execução do CPU miner com 8 threads atinge em torno de 10 MH/s
+- Cada thread atinge cerca de 1600 KH/s 
 - Este projeto é principalmente para fins educacionais/experimentais
 - Para mineração séria, considere hardware especializado (ASICs)
 
@@ -135,7 +137,6 @@ chmod +x start-miner-public-pool.sh
 - Verifique se o usuário/endereço está correto
 
 **Performance baixa:**
-- A execução do CPU miner atinge em torno de 10 MH/s 
 - Ajuste o número de threads
 - Verifique se outros processos estão usando CPU
 - Considere ajustar a prioridade do CPU
