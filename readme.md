@@ -139,17 +139,17 @@ chmod +x start-miner-public-pool.sh
 - Verifique se outros processos estão usando CPU
 - Considere ajustar a prioridade do CPU
 
-## 📚 Recursos Adicionais
+## Recursos Adicionais
 
 - [CPUMiner-Multi GitHub](https://github.com/tpruvot/cpuminer-multi)
 - [Braiins Pool](https://braiins.com/pool)
 - [Public Pool](https://public-pool.io)
 
-## 📝 Licença
+## Licença
 
 Este projeto utiliza o CPUMiner-Multi, que é software livre. Consulte as licenças dos componentes individuais para mais detalhes.
 
-## 🤝 Contribuições
+## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades através de pull requests.
 
