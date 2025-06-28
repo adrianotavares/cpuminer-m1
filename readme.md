@@ -8,12 +8,11 @@ O CPUMiner-Multi é um minerador de CPU multi-algoritmo que suporta diversos alg
 
 - **Algoritmo**: SHA-256d (Bitcoin)
 - **Arquitetura**: ARM64 (Apple Silicon)
-- **Pools suportadas**: Braiins Pool e Public Pool
+- **Pool suportada**: Public Pool
 
 ## Características
 
 - Binário otimizado para Apple Silicon (ARM64)
-- Configurações para duas pools diferentes
 - Scripts de inicialização automatizados
 - Sistema de logs com timestamp
 - Interface API para monitoramento
@@ -60,12 +59,13 @@ cpuminer-m1/
 ### API Status
 O minerador expõe uma API REST em `http://127.0.0.1:4048` para monitoramento em tempo real.
 
+ 
+## Personalização
+
 ### Logs
 Os logs são automaticamente salvos com timestamp:
 - Formato: `miner_YYYY-MM-DD_HH-MM-SS.log`
 - Localização: Diretório raiz do projeto
-
-## Personalização
 
 ### Help
 ```bash
@@ -147,7 +147,7 @@ chmod +x start-miner-public-pool.sh
 
 ## Licença
 
-Este projeto utiliza o CPUMiner-Multi, que é software livre. Consulte as licenças dos componentes individuais para mais detalhes.
+Este projeto utiliza o CPUMiner-Multi, que é software livre. Consulte as licenças dos componentes para mais detalhes.
 
 ## Contribuições
 
