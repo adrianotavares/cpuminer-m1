@@ -3,7 +3,7 @@
   "user": "bc1qmep09valk9fcpjatr6z4p4lpg2dtnc9e0fxy6n.rooster",
   "pass": "x",
   "algo": "sha256d",
-  "threads": 8,
+  "threads": 6,
   "cpu-priority": 5,
   "cpu-affinity": -1,
   "api-bind": "127.0.0.1:4048",

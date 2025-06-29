@@ -30,7 +30,7 @@ cpuminer-m1/
 
 ## Configuração
 
-### Public Pool (cpuminer-conf-public-pool.json)
+### Bitcoin Public Pool (cpuminer-conf-public-pool.json)
 - **Pool**: public-pool.io:21496
 - **Address**: bitcoin-address
 - **Worker**: workername
